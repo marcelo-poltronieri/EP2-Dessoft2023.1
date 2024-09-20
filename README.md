@@ -5,3 +5,5 @@ Esse repositório contém O projeto EP2 feito para a disciplina de Design de Sof
 Dupla: Marcelo da Costa Poltronieri Pedro Nery Affonso dos Santos
 
 Objetivo: Registrar o histórico do desenvolvimento do jogo Batalha Naval
+
+Nota final da dupla: A+
